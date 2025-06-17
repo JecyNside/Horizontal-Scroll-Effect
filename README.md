@@ -1,12 +1,15 @@
-# React + Vite
+# Demo de Scroll Horizontal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hola, esta demo fue creada con **Vite** y muestra un scroll horizontal suave implementado con **React**, **GSAP** (usando `@gsap/react`) y **Lenis**.
 
-Currently, two official plugins are available:
+## Tecnologías
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ![Vite](https://img.shields.io/badge/Vite-FFD62E?logo=vite&logoColor=black) **Vite**
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) **React**
+- ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white) **GSAP**
+- ![@gsap/react](https://img.shields.io/badge/gsap--react-88CE02?logo=greensock&logoColor=white) **@gsap/react**
+- ![Lenis](https://img.shields.io/badge/Lenis-000000?logo=javascript&logoColor=white) **Lenis**
 
-## Expanding the ESLint configuration
+## Vista Previa
+![Captura](./public/images/screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
